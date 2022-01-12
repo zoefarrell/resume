@@ -1,6 +1,6 @@
 {
   "name": "zoepeterson-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zoe Peterson's Resume",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Zoe Peterson",
   "license": "ISC",
   "bin": {
-    "display-resume": "./index.js"
+    "display-zoe-resume": "./index.js"
   }
 }
