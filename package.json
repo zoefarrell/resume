@@ -1,0 +1,14 @@
+{
+  "name": "zoepeterson-resume",
+  "version": "1.0.0",
+  "description": "Zoe Peterson's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zoe Peterson",
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
